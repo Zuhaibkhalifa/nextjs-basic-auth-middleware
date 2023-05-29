@@ -52,5 +52,8 @@
     "semi": false,
     "singleQuote": true,
     "trailingComma": "es5"
+  },
+  "dependencies": {
+    "nextjs-basic-auth-middleware": "^3.1.0"
   }
 }
